@@ -8,7 +8,6 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
-
 /**
  * Post type declaration class.
  */
@@ -31,7 +30,6 @@ class WordPress_Plugin_Template_Post_Type {
 	 * @since   1.0.0
 	 */
 	public $plural;
-
 	/**
 	 * The singular name for the custom post type posts.
 	 *
