@@ -4,7 +4,6 @@
 
 WordPress Plugin Template
 =========================
-
 A robust and GPL-licensed code template for creating a standards-compliant WordPress plugin.
 
 
